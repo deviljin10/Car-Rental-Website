@@ -1,0 +1,13 @@
+.login-container {
+    background-image: url('');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .login-form {
+    /* Add styling for your login form */
+  }

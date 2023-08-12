@@ -1,0 +1,9 @@
+- your_project_directory
+  - engine.js
+  - battery.js
+  - __tests__
+    - engine.test.js
+    - battery.test.js
+  - node_modules
+  - package.json
+  - ...

@@ -1,0 +1,8 @@
+.common__section {
+  background: linear-gradient(rgb(0, 13, 107, 0.6), rgb(0, 13, 107, 0.6)),
+    url("https://images.pexels.com/photos/849835/pexels-photo-849835.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=2.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 80px 0px;
+}
